@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"error_include.h": "c",
+		"matrix.h": "c",
+		"cl.h": "c"
+	}
+}
